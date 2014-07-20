@@ -8,7 +8,7 @@
     <version>${version}</version>
     <packaging>jar</packaging>
 
-    <name>craftman-quickstart</name>
+    <name>${artifactId}</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
